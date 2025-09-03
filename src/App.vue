@@ -44,6 +44,15 @@ import ContactContent from './components/content/ContactContent.vue'
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-900 text-gray-400 text-center py-4">© 2025 Isaiah D Pham</footer>
+    <footer class="bg-gray-900 text-gray-400 text-center py-4">
+      <a
+        href="https://github.com/isaiah-pham/isaiah-pham.github.io"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="underline hover:text-white transition"
+      >
+        Repository for this website
+      </a>
+    </footer>
   </div>
 </template>
