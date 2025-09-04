@@ -9,8 +9,8 @@ import EmailIcon from '@/assets/icons/email-light.svg'
     id="home"
     class="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-gray-900 to-gray-700 text-white text-center p-4"
   >
-    <h1 class="text-5xl font-bold mb-4">Hi, I'm Isaiah 👋</h1>
-    <p class="text-xl mb-8">Computer Science Student</p>
+    <h1 class="text-5xl font-bold mb-4">Isaiah Pham</h1>
+    <p class="text-xl mb-8">Computer Science Student at Clemson University</p>
 
     <!-- Social Buttons -->
     <div class="flex gap-6">

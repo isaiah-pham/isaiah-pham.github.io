@@ -3,7 +3,7 @@
 // import HomeView from '../views/HomeView.vue'
 // import AboutView from '../views/AboutView.vue'
 // import ProjectsView from '../views/ProjectsView.vue'
-// import ResumeView from '../views/ResumeView.vue'
+// import ExperienceView from '../views/ExperienceView.vue'
 // import ContactView from '../views/ContactView.vue'
 
 // const router = createRouter({
@@ -12,7 +12,7 @@
 //     { path: '/', name: 'Home', component: HomeView },
 //     { path: '/about', name: 'About', component: AboutView },
 //     { path: '/projects', name: 'Projects', component: ProjectsView },
-//     { path: '/resume', name: 'Resume', component: ResumeView },
+//     { path: '/experience', name: 'Experience', component: ExperienceView },
 //     { path: '/contact', name: 'Contact', component: ContactView },
 //   ],
 // })

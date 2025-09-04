@@ -4,8 +4,8 @@ import HomeContent from './components/content/HomeContent.vue'
 import AboutContent from './components/content/AboutContent.vue'
 import ProjectsContent from './components/content/ProjectsContent.vue'
 import SkillsContent from './components/content/SkillsContent.vue'
-import ResumeContent from './components/content/ResumeContent.vue'
-import ContactContent from './components/content/ContactContent.vue'
+import ExperienceContent from './components/content/ExperienceContent.vue'
+// import ContactContent from './components/content/ContactContent.vue'
 </script>
 
 <template>
@@ -26,21 +26,21 @@ import ContactContent from './components/content/ContactContent.vue'
         <AboutContent />
       </section>
 
-      <section id="projects" class="min-h-screen flex items-center justify-center bg-white">
+      <section id="experience" class="min-h-screen flex items-center justify-center bg-white">
+        <ExperienceContent />
+      </section>
+
+      <section id="projects" class="min-h-screen flex items-center justify-center bg-gray-100">
         <ProjectsContent />
       </section>
 
-      <section id="skills" class="min-h-screen flex items-center justify-center bg-gray-100">
+      <section id="skills" class="min-h-screen flex items-center justify-center bg-white">
         <SkillsContent />
       </section>
 
-      <section id="resume" class="min-h-screen flex items-center justify-center bg-white">
-        <ResumeContent />
-      </section>
-
-      <section id="contact" class="min-h-screen flex items-center justify-center bg-gray-100">
+      <!-- <section id="contact" class="min-h-screen flex items-center justify-center bg-gray-100">
         <ContactContent />
-      </section>
+      </section> -->
     </main>
 
     <!-- Footer -->
