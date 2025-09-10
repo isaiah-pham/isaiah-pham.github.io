@@ -1,4 +1,4 @@
-# isaiah-pham.github.io - Portfolio Website
+# [isaiah-pham.github.io](https://isaiah-pham.github.io) - Portfolio Website
 
 ### [Link to changelog](https://github.com/isaiah-pham/isaiah-pham.github.io/blob/main/CHANGELONG.md)
 
